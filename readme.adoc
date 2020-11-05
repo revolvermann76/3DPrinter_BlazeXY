@@ -1,0 +1,5 @@
+= BlazeXZ - a core-XY 3d printer
+
+image::BlazeXY.png[Full Assembly,500]
+
+I started the project in Fusion 360 but changed finally to FreeCAD. I'm now in the process of recreating and rearranging the geometry.
