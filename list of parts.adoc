@@ -1,0 +1,10 @@
+= List of parts
+
+* E3D Extruder Clone
+* 2x Image frame clip
+* 4x Aluminium extrusion 30x30x500
+* 10x Aluminium extrusion 30x30x440
+* 2x Carbon fibre tube 10x470
+* 4x Tennisball
+
+to be continued ...
